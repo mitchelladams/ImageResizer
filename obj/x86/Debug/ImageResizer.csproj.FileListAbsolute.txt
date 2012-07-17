@@ -1,0 +1,5 @@
+C:\Users\adamsml\Desktop\ImageResizer\ImageResizer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adamsml\Desktop\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe
+C:\Users\adamsml\Desktop\ImageResizer\ImageResizer\bin\Debug\ImageResizer.pdb
+C:\Users\adamsml\Desktop\ImageResizer\ImageResizer\obj\x86\Debug\ImageResizer.exe
+C:\Users\adamsml\Desktop\ImageResizer\ImageResizer\obj\x86\Debug\ImageResizer.pdb
